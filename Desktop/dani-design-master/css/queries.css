@@ -1,0 +1,143 @@
+
+
+
+
+/* big tablet to 1280px (widths smaller that the 1140px row) */
+@media only screen and (max-width: 1200px) {
+    .project {
+        width:1200px;
+        margin: 0 auto;
+    }
+
+    #nav1 {
+        
+    margin-left:92px;
+    }
+    #nav2 {
+margin-right:32px;}
+
+.img img {
+    width: 100%;
+    z-index: 9999;
+    text-align: center;
+    margin-top: -20px;
+    border: 1px solid gray;
+}
+#boxx {
+    text-align: center;
+    color: white;
+    width:100%;
+    padding:0 20px;
+
+
+}
+.box12 {
+    background-color: #2b97da;
+    width: 280px;
+    height: 195px;
+    padding: 45px;
+}
+.box13 {
+    background-color: #29b1d5;
+    width: 280px;
+    height: 195px;
+    padding: 45px;
+}
+.dal {
+    
+}
+#sssd {
+    padding:0 40px;
+}
+
+.box2 {
+   width: 280px;
+}
+.box1 {
+    width: 280px;
+}
+
+#lastart1 img {
+    width: 360px;
+}
+#lastart2 img {
+    width: 360px;
+}
+#lastart3 img {
+    width: 360px;
+
+}
+.semifooter {
+    width:100%;
+}
+.footer2 {
+    padding:40px;
+   
+}
+#footer2s {
+    line-height:12px;
+}
+.letter p {
+    line-height:8px;
+}
+#yep {
+    width:400px;
+}
+#yep img{
+    width:390px;
+    height:310px;
+}
+ #pmicc {
+    
+}
+.footer2 {
+    height:445px;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Small tablet to big tablet: from 768px to 1023px; */
+@media only screen and (max-width: 1023px) {
+    
+    
+
+}
+
+
+
+
+
+
+/*Small phones to small tablets: from 481px to 767*/
+@media only screen and (max-width: 767px) {
+
+}
+
+
+
+
+
+
+
+/* Small phones: from 0 to 480px */
+@media only screen and (max-width: 480px) {
+
+}
